@@ -5,4 +5,4 @@ cookbook "mongodb"
 cookbook "rvm", github: "fnichol/chef-rvm"
 cookbook "opsworks_stage_dir",
   git: "https://github.com/ujuettner/playground-for-cookbooks.git",
-  rel: "playground-for-cookbooks/opsworks_stage_dir"
+  rel: "opsworks_stage_dir"
